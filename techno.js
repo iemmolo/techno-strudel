@@ -1,7 +1,4 @@
 ////////////////////////////////////////////////////////////
-// -- Custom Functions Import --
-// eval(await(await fetch('https://raw.githubusercontent.com/switchangel/strudel-scripts/main/allscripts.js')).text());
-////////////////////////////////////////////////////////////
 samples('github:switchangel/pad')
 
 setCps(140/60/4)
